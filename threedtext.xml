@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.4" type="plugin" group="content">
+	<name>Content - 3D Text Shadow</name>
+	<creationDate>11/03/2016</creationDate>
+	<license>GNU/LGPL</license>
+	<version>1.0</version>
+	<author>Juraj Vysvader</author>
+	<copyright>Unisoftdev</copyright>
+	<authorEmail>admin@unisoftdev.com</authorEmail>
+	<authorUrl>https://www.unisoftdev.tech/</authorUrl>
+	<license>http://www.gnu.org/licenses/lgpl-3.0.en.html GNU/LGPL V3</license>
+	<description>Before text opt in from: {green}, {blue}, {white}, {black}, {neon}, {navy}, {glasses} and finish it with {end}.
+	For example: {green}here is comming your text{end}. It will be looking better, if you will give some bigger text-size.
+	</description>
+	<files>
+                <filename plugin="threedtext">threedtext.php</filename>
+                <filename>index.html</filename>
+				<filename>threedtext.css</filename>
+        </files>
+		<config></config>
+</extension>

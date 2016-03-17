@@ -1,0 +1,71 @@
+
+.dblue{
+color: #66B3CC;
+    font-weight: bold;
+    text-shadow: 0px 0px 0 rgb(85,162,187),
+ 0px 1px 0 rgb(81,158,183),
+ 0px 1.2px 0 rgb(77,154,179),
+ 0px 1.4px 0 rgb(73,150,175),
+ 0px 1.6px 0 rgb(69,146,171),
+ 0px 1.8px 0 rgb(65,142,167),
+ 0px 2px 0 rgb(61,138,163),
+ 0px 2.2px 0 rgb(57,134,159),
+ 0px 2.4px 0 rgb(53,130,155),
+ 0px 2.6px 0 rgb(49,126,151),
+ 0px 2.8px 0 rgb(45,122,147), 
+ 0px 3px 0 rgb(41,118,143),
+ 0px 3.2px 11px rgba(0,0,0,0.2),
+ 0px 3.2px 1px rgba(0,0,0,0.5),
+ 0px 0px 11px rgba(0,0,0,0.1);
+ }
+
+.dwhite{
+color:white;
+font-weight: bold;
+text-shadow: 0 1px 0 #cccccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbbbbb, 
+0 4px 0 #b9b9b9, 0 5px 0 #aaaaaa, 0 6px 1px rgba(0, 0, 0, 0.1), 
+0 0 5px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3), 
+0 3px 5px rgba(0, 0, 0, 0.2), 0 5px 10px rgba(0, 0, 0, 0.25), 
+0 10px 10px rgba(0, 0, 0, 0.2), 0 20px 20px rgba(0, 0, 0, 0.15);
+}
+
+.dred{
+font-family: 'Vidaloka', serif;
+color: #c20a19;
+font-weight: bold;
+text-shadow: 0 0.008em 0 #ce0b1b, 0 0.016em 0.008em #910813, 0 0.024em 0.016em #8d0712, 0 0.032em 0.016em #830711, 0 0.048em 0.008em #74060f, 0 0.048em 0.024em rgba(0, 0, 0, 0.5), 0 0 0.04em rgba(0, 0, 0, 0.2), 0 0.016em 0.064em rgba(0, 0, 0, 0.3), 0 0.08em 0.096em rgba(0, 0, 0, 0.25), 0 0.16em 0.16em rgba(0, 0, 0, 0.15);
+}
+
+.dblack{
+color:black;
+font-weight: bold;
+  text-shadow: 0 -3px 0 #333,
+    0 6px 8px rgba(0,0,0,.4),
+    0 9px 10px rgba(0,0,0,.15),
+    0 30px 10px rgba(0,0,0,.18),
+    0 15px 10px rgba(0,0,0,.21);
+}
+.dgreen {
+	font-family: 'Vidaloka', serif;
+	font-weight: bold;
+	letter-spacing: 0.25rem;
+	color: rgb(135, 207, 87);
+	text-shadow: -2px 2px 5px #000;
+}
+.dnavy{
+  text-shadow: 0 -2px 0 #a7cdf2, 0 2px 0 #124678, 1px 0px 0 #2868a5, 3px 3px 0px rgba(0, 0, 0, 0.1), -3px 4px 0px rgba(0, 0, 0, 0.1), 2px -2px 0px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2), 0 3px 5px rgba(0, 0, 0, 0.2), 0 5px 10px rgba(0, 0, 0, 0.2), 0 10px 10px rgba(0, 0, 0, 0.2), 0 20px 20px rgba(0, 0, 0, 0.1), -150px 580px 0 rgba(27, 104, 178, 0.06);
+}
+.dneon {
+  color: #ffeeff;
+  font-weight: bold;
+  text-shadow: 0 0 10px #ffeeff,
+               0 0 20px #ff99ff,
+               0 0 30px #ff99ff,
+               0 0 40px #ff99ff;
+}
+
+.dglasses {
+  color: #fff;
+  text-shadow: 4px 1px 0px red,
+              -4px -1px 0px cyan;
+}
